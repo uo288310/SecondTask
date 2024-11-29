@@ -14,7 +14,7 @@ public class FlowerGenerator {
             {"Oxeye Daisy", "Leucanthemum vulgare", "A large daisy-like flower with white petals and a golden center, symbolizing purity."},
             {"European Columbine", "Aquilegia vulgaris", "A beautiful blue or purple flower with a unique shape, found in Polish gardens."},
             {"Common Heather", "Calluna vulgaris", "A purple-pink flower that thrives in Polish highlands, symbolizing admiration."},
-            {"Wild Rose", "Rosa canina", "A delicate pink or white flower with thorny stems, found in hedgerows across Poland."}
+            
         };
         
         Random random = new Random();

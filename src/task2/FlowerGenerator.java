@@ -19,6 +19,7 @@ public class FlowerGenerator {
         
         Random random = new Random();
         int index = random.nextInt(flowers.length);
+        //change added in the n) exercise
 
         System.out.println("Here is your random flower:");
         System.out.println("Common Name: " + flowers[index][0]);
